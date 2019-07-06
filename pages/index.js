@@ -1,10 +1,11 @@
 import React from 'react';
 import '../static/scss/index.scss';
-import MainContainer from "../components/mainContainer/MainContainer";
+import SignUp from "./signUp";
+
 
 const Index = () => {
     return (
-        <MainContainer/>
+        <SignUp />
     );
 }
 

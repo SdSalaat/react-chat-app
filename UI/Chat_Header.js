@@ -14,10 +14,6 @@ const Chat_Header = () => {
                     <span>Maryam Naz</span>
                     <p>1767 Messages</p>
                 </div>
-                <div className="video_cam">
-                    <span> <i className="fas fa-video"> </i> </span>
-                    <span> <i className="fas fa-phone"> </i> </span>
-                </div>
             </div>
         </div>
     );
@@ -25,3 +21,8 @@ const Chat_Header = () => {
 };
 
 export default Chat_Header;
+//
+// <div className="video_cam">
+//     <span> <i className="fas fa-video"> </i> </span>
+//     <span> <i className="fas fa-phone"> </i> </span>
+// </div>

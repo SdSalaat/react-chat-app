@@ -24,6 +24,13 @@
       "static/chunks/styles.js",
       "static/css/static/development/pages/index.js.chunk.css",
       "static/runtime/main.js"
+    ],
+    "/signUp": [
+      "static/runtime/webpack.js",
+      "static/css/styles.chunk.css",
+      "static/chunks/styles.js",
+      "static/css/static/development/pages/signUp.js.chunk.css",
+      "static/runtime/main.js"
     ]
   }
 }
